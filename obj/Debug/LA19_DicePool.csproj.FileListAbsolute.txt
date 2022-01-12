@@ -1,0 +1,7 @@
+D:\All files\Bow Valley\SODV9104\HW\LA19_DicePool\bin\Debug\LA19_DicePool.exe.config
+D:\All files\Bow Valley\SODV9104\HW\LA19_DicePool\bin\Debug\LA19_DicePool.exe
+D:\All files\Bow Valley\SODV9104\HW\LA19_DicePool\bin\Debug\LA19_DicePool.pdb
+D:\All files\Bow Valley\SODV9104\HW\LA19_DicePool\obj\Debug\LA19_DicePool.csproj.AssemblyReference.cache
+D:\All files\Bow Valley\SODV9104\HW\LA19_DicePool\obj\Debug\LA19_DicePool.csproj.CoreCompileInputs.cache
+D:\All files\Bow Valley\SODV9104\HW\LA19_DicePool\obj\Debug\LA19_DicePool.exe
+D:\All files\Bow Valley\SODV9104\HW\LA19_DicePool\obj\Debug\LA19_DicePool.pdb
